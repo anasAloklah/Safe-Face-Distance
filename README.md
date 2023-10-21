@@ -1,2 +1,3 @@
 # Safe-Face-Distance
-is project for make safe dictance between the screen 
+is a project to make a safe distance between the laptop screen and child's face for save his eyes.
+
